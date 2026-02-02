@@ -156,49 +156,19 @@ Support onboarding without removing skill expression.
 
 ---
 
-# Repository Information
+# Total Features and Requirements
 
-## GitHub Repository
-
-**Main Repository**  
-https://github.com/joseph-ampfer/ninja_wizards_hands
-
-**Key Directories**
-- Code  
-- Images / Assets  
-- Game Flowcharts  
-- Planning Documents  
-
----
-
-# Supporting Documents
-
-## Existing Documentation
-
-- State Diagram  
-- User Spell List  
-- Game Flowcharts  
-
-(Used as references for system understanding and design alignment)
-
----
+Features: 6
+Requirements: 20
 
 # Project Progress
 
 ## Milestones
 
-- Milestone 1: Codebase familiarization — Completed  
-- Milestone 2: UI theming & visual consistency — In Progress  
-- Milestone 3: Match rewards system — Upcoming  
-- Milestone 4: Assistive features & usability testing — Upcoming  
+- Milestone 1: UI theming & visual consistency — In Progress  
+- Milestone 2: Match rewards system — Upcoming 
+- Milestone 3: Assistive features & usability testing — Upcoming
 
----
-
-# Weekly Progress
-
-- Week 2: Onboarding and system review  
-- Week 3: Visual and UX planning  
-- Week 4: Feature implementation planning  
 
 ---
 
@@ -206,8 +176,7 @@ https://github.com/joseph-ampfer/ninja_wizards_hands
 
 - **Game Engine:** Unity  
 - **Language:** C#  
-- **Networking:** Netcode for GameObjects  
-- **Platform Services:** Steam (Facepunch.Steamworks)  
+- **Platform Services:** Steam 
 
 ---
 
