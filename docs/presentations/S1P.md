@@ -37,6 +37,22 @@ title: Individual Project S1P
 - Week 2: Implemented pinned spells features for new players
 - Week 3: Set plans to have personal models through connections to the DFX major at NKU. Discussed plans to host user testing during week 2 of Sprint 2
 - Week 4: Worked with AI to begin learning about Art Direction and Visual themeing as it relates to our game.
+
+---
+
+## Pinned Spells Showcase
+
+![width:700px,](demo_images/pausemenu.png)
+
+---
+
+![width:700px,](demo_images/pinnedinmenu.png)
+
+---
+
+![width:400px,](demo_images/pinnedingame.png)
+
+
 ---
 
 # Sprint 2 Goal and Metrics
@@ -69,11 +85,53 @@ title: Individual Project S1P
 
 ---
 
-## Art Direction and Theming
+# Learning Art Direction for Spell Arena
+
+## Learning Plan:
+
+1. Study visual identity in games like:
+   - League of Legends (color-coded abilities)
+   - Wizard of Legend (element clarity & readability)
+
+2. Use AI to:
+   - Generate art direction mood boards
+   - Compare stylized vs dark fantasy approaches
+   - Analyze visual readability in PvP games
 
 ---
 
-## Assitive Features in Video Games
+3. Create:
+   - Element color system (Fire, Ice, Arcane, Nature)
+   - Spell readability rules (0.5 second recognition)
+   - UI theme consistency guide
+
+## Outcome:
+A documented Art Direction Pillar for Spell Arena.
+
+---
+
+# Learning Assistive Features in Games
+
+## Goal:
+Design Spell Arena to be competitive and accessible.
+
+## Research Areas:
+
+- Colorblind modes (Protanopia, Deuteranopia, Tritanopia)
+- Adjustable visual intensity
+- Remappable controls
+- Cognitive clarity in spell descriptions
+
+--- 
+
+## AI-Assisted Learning:
+
+- Generate accessibility checklists
+- Study accessibility practices in competitive games
+- Simulate user experience scenarios
+
+## Outcome:
+An Accessibility Feature Roadmap for Spell Arena.
 
 ---
 
