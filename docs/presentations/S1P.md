@@ -91,7 +91,7 @@ title: Individual Project S1P
 
 1. Study visual identity in games like:
    - League of Legends (color-coded abilities)
-   - Wizard of Legend (element clarity & readability)
+   - Wizard 101
 
 2. Use AI to:
    - Generate art direction mood boards
